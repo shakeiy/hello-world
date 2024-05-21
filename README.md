@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practising the GitHub Flow.
+Hi welcome to my fitness channel
+I hope you all are doing well...........
